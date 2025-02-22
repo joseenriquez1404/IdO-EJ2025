@@ -7,6 +7,7 @@ Enlaces a las actividades de **Enero y Febrero**:
 
 - [Actividad 6](./EneFeb/Act6_EspacioMuestral.py)
 - [Actividad 7](./EneFeb/Act%207%20Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadística.pdf)
+- [Actividad 8](./EneFeb/Act_8__Laboratorio_de_Álgebra_Lineal(1).pdf)
 
 
 ---
